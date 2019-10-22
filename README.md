@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+iOS Health APP Usability Testing
+============================
+By Shan Zhong <br>
+For 2019 Fall DH150 User Experience Design final project <br>
 
-You can use the [editor on GitHub](https://github.com/ShanZ3/iOS-Health-UT-Testing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## The Purpose of Usability Testing
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are several purposes to conduct this usability testing:<br>
+> 1) Test to see if the design of the interface is friendly to users <br>
+> 2) Whether the app contains irrelevent informations <br>
+> 3) Whether we need a help documentation to assist users in using this app <br>
+> 4) Whether the user thinks the app match between system and the real world <br>
 
-### Markdown
+## Link to UT Materials
+>[URL]:https://docs.google.com/forms/d/e/1FAIpQLSdd2wghm9bs_7n_FEHDFCX2eJ_m6R8hdsyPaKBeACi_myA-NA/viewform?usp=sf_link <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShanZ3/iOS-Health-UT-Testing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Link to UT Videos
+>[URL]:https://drive.google.com/file/d/1XtMZOO_flVgbiaA3u7rTPcaXBYsnwNzx/view?usp=sharing <br>
+>[URL]:https://drive.google.com/file/d/17aIMMW_Z3V_I05Wm8xdw9cFH_AQ_ZB1H/view?usp=sharing <br>
+>[URL]:https://drive.google.com/file/d/1-6nXsha24sFd7CpYYYEdmNJX8SZRdJH9/view?usp=sharing <br>
